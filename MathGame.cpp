@@ -27,6 +27,7 @@ struct stQuizzResults
     
 };
 
+// The main struct for the game
 struct stQuizz
 {
     float Number1 = 0;
