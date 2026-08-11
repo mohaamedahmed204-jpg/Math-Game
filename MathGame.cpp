@@ -56,7 +56,8 @@ int ReadNumberOfQuestions(string message)
     while(true)
     {
         cin >> Questions;
-        
+
+        // Keep it save if the input was a string
         if(cin.fail() || cin.peek() != '\n')
         {
             ClearBuffer();
