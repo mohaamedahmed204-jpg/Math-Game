@@ -1,4 +1,4 @@
-# 🎲 Math Quiz Game (C++)
+# 🎮 Math Quiz Game (C++)
 
 A console-based Math Quiz Game built using C++. The program generates random arithmetic questions and challenges the player to solve them while tracking accuracy and performance.
 
@@ -45,7 +45,7 @@ This project was developed as part of the training roadmap on:
 - Loop control
 - Console UI feedback
 
-## 🎮 How the Game Works
+## 🎲 How the Game Works
 1. The player chooses settings (questions, difficulty, operation).
 2. The program generates random math problems.
 3. The player enters answers and receives immediate feedback.
