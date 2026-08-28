@@ -2,7 +2,7 @@
 
 A console-based Math Quiz Game built using C++. The program generates random arithmetic questions and challenges the player to solve them while tracking accuracy and performance.
 
-## 📌 Training Source
+## 📌 Training Source.         
 This project was developed as part of the training roadmap on:
 - **Platform:** Programming Advices
 - **Instructor:** Dr. Mohammed Abu-Hadhoud
